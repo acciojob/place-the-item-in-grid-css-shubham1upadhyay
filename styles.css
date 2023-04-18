@@ -2,8 +2,5 @@
   display: grid;
   grid-template-columns: repeat(2, 100px);
   gap:0.5rem;
-}
-.item{
-	width:100px;
-	heigth:100px;
+  grid-template-rows:100px 100px;
 }
